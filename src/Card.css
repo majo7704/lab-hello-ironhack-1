@@ -1,0 +1,16 @@
+.Card {
+  padding-right: 2%;
+  width: 25%;
+  margin: 0 auto;
+}
+
+.Card p {
+  color: gray;
+  width: 60%;
+  padding-left: 6%;
+  font-size: 20px
+}
+.Card h3 {
+  padding-left: 6%;
+  font-size: 24px;
+}
